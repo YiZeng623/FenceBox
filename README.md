@@ -1,2 +1,11 @@
-# FenceBox
-The official FenceBox Platform -- implementation of paper:' FenceBox A Platform for Defeating Adversarial Examples with Data Augmentation Techniques.'
+environment requirements:
+
+Numpy1.17.2
+Scipy 1.3.1
+Skimage 0.15.0
+Opencv 3.4.2
+Albumentations 0.4.5
+Pillow 6.1.0
+
+Python 3.7
+
